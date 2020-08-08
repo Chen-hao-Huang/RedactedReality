@@ -1,0 +1,6 @@
+C:\Users\chenh\OneDrive\Desktop\ToyAircraftFinder-WinML\App_Blur\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\chenh\OneDrive\Desktop\ToyAircraftFinder-WinML\App_Blur\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;arm
+C:\Users\chenh\OneDrive\Desktop\ToyAircraftFinder-WinML\App_Blur\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;arm
+C:\Users\chenh\OneDrive\Desktop\ToyAircraftFinder-WinML\App_Blur\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;arm
+C:\Users\chenh\OneDrive\Desktop\ToyAircraftFinder-WinML\App_Blur\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;arm
+C:\Users\chenh\OneDrive\Desktop\ToyAircraftFinder-WinML\App_Blur\ToyAircraftFinder\ToyAircraftFinder.csproj;arm
